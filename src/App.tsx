@@ -8,6 +8,7 @@ import Checkout from "./pages/Checkout";
 import ChangePassword from "./pages/ChangePassword";
 import Prescription from "./pages/Prescription";
 import CategoriesMain from "./pages/CategoriesMain";
+import Alert from "./components/Alert";
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
         <Route path="/checkout" element={<Checkout />} />
         <Route path="/changepassword" element={<ChangePassword />} />
         <Route path="/prescription" element={<Prescription />} />
-        <Route path="/prescription" element={<Prescription />} />
+        <Route path="/alert" element={<Alert />} />
       </Routes>
       <Footer />
     </div>
