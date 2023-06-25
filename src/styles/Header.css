@@ -1,0 +1,86 @@
+.navbarmain {
+  background-color: #ffffff;
+  padding:  10px;
+  z-index: 2;
+  box-shadow: 0px 6px 10px  #f5f5f5;
+  
+  
+ 
+}
+
+.logotxt {
+  margin-top: auto;
+  margin-bottom: auto;
+  padding: 0 12px;
+  letter-spacing: -1px;
+  line-height: 1; 
+  
+}
+
+.downloadapp{
+  background-color: rgb(210, 225, 236);
+  padding: 4px 10px;
+  border: none;
+  border-radius: 10px;
+  
+  color: #000;
+}
+.signupbtn {
+  background-color: #ffffff;
+  color: #000;
+  padding: 10px 20px;
+}
+.logoutbtn {
+  background-color: #ffffff;
+  color: #000;
+  padding: 10px ;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: 700;
+  color: #000;
+}
+.logo {
+  display: flex;
+  text-align: left;
+  color: #000;
+}
+
+.logoimg {
+  height: 80px;
+  width: 80px;
+}
+
+
+.cart {
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.signin {
+  font-size: 16px;
+  font-weight: 500;
+}
+.icontext {
+  padding: 0 10px;
+  color: rgb(0, 0, 0);
+}
+
+.medcareitems {
+  padding: 4px 12px;
+  font-size: 14px;
+  margin: 0 auto;
+  font-weight: 500;
+  background-color: #000;
+  border: 2px solid #000;
+  border-radius: 10px;
+  color: #000;
+  letter-spacing: -0.4px;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+a {
+  text-decoration: none;
+  color: #091818;
+}

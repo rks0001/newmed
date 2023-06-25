@@ -1,0 +1,21 @@
+.section{
+    min-height: 60vh;
+   
+}
+
+.introimage{
+    width:400px;
+    height:400px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: right;
+}
+.nameintro{
+    color: #4d62ca;
+    font-weight: 700;
+}
+.introcontainer{
+    font-size: 30px;
+    text-align: left;
+    padding: 140px 40px;
+}

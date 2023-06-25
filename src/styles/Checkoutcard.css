@@ -1,0 +1,31 @@
+.allproduct {
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.smallimg {
+  padding: 10px 20px;
+  width: 20%;
+}
+
+.checktext {
+  padding: 10px 20px;
+  width: 60%;
+}
+
+.qty {
+  padding: 10px 20px;
+  width: 20%;
+}
+
+.addqty {
+  /* display: flex; */
+  padding: 40px 0;
+}
+
+.addqtytxt {
+  padding: 0 10px 0 0;
+}

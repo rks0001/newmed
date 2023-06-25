@@ -1,0 +1,21 @@
+.card1{
+    border: none;
+    background-color: #f9f9f9;
+}
+.cardimg{
+    padding: 12px;
+    height: 200px;
+}
+
+.btnshop{
+    background-color: #36d3dc;
+    border: 1px solid #36d3dc;
+    border-radius: 4px;
+    padding: 6px 20px;
+}
+.btnshop:hover{
+    background-color: #36d3dc;
+    border: 1px solid #36d3dc;
+    border-radius: 4px;
+    padding: 6px 20px;
+}

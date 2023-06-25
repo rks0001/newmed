@@ -1,0 +1,34 @@
+.headtext{
+    padding: 6px 80px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.maindivone{
+    display: flex;
+}
+
+.leftpanel{
+    width: 25%;
+
+}
+
+.rightpanel{
+    width: 100%;
+    padding: 0 60px;
+}
+.categories{
+    min-height: 80vh;
+    margin-bottom: 60px;
+}
+
+.rowone{
+    padding: 20px 0 ;
+}
+.colone{
+    text-align: left;
+}
+img{
+    width: 100px;
+    height: 150px;
+}

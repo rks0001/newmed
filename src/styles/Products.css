@@ -1,0 +1,115 @@
+.prosec {
+  min-height: 80vh;
+  padding: 100px;
+  background-color: #f3f3f3;
+}
+
+.productcon {
+  background-color: rgb(255, 255, 255);
+  border: none;
+  border-radius: 10px;
+  padding: 50px 50px;
+
+  display: flex;
+}
+
+.imgcon {
+  background-color: rgb(255, 255, 255);
+  padding: 20px 40px;
+  width: 50%;
+  margin: 0 20px;
+  text-align: center;
+}
+
+.textcon {
+  background-color: rgb(255, 255, 255);
+  padding: 20px 40px;
+  margin: 0 20px;
+  width: 50%;
+}
+
+.imgtab {
+  width: 200px;
+  height: 200px;
+}
+
+.proname {
+  font-size: 22px;
+  font-weight: 500;
+  padding: 10px 0;
+}
+
+.tags {
+  background-color: rgb(196, 196, 196);
+  width: 20%;
+  text-align: center;
+  padding: 2px;
+  border: none;
+  border-radius: 10px;
+  font-size: 14px;
+}
+
+.rating {
+  font-size: 14px;
+  font-weight: 300;
+  color: rgb(37, 37, 37);
+  padding: 10px 0;
+}
+
+.bestpricecon {
+  display: flex;
+}
+
+.bestprice {
+  padding: 0 30px 0 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(99, 99, 99);
+}
+
+.displayprice {
+  font-size: 20px;
+  font-weight: 500;
+  color: rgb(174, 41, 112);
+}
+
+.mrpcon {
+  display: flex;
+}
+
+.mrp {
+  padding: 0 30px 0 0;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(99, 99, 99);
+}
+
+.off {
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(65, 163, 105);
+}
+
+.info {
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(99, 99, 99);
+  letter-spacing: -1px;
+  padding: 10px 0;
+}
+
+.addtocart {
+  background-color: #263994;
+  color: #f3f3f3;
+  border: none;
+  border-radius: 10px;
+  padding: 6px 16px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.expiry {
+  font-size: 14px;
+  font-weight: 400;
+  color: rgb(99, 99, 99);
+  padding: 10px 0;
+}

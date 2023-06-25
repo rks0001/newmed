@@ -1,0 +1,19 @@
+.footermain {
+  background-color: #4d62ca;
+  min-height: 20vh;
+ 
+}
+
+.mainrow{
+  padding: 30px 0;
+}
+
+.rowitem{
+  padding: 4px 0;
+  font-size: 14px;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}

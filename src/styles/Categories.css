@@ -1,0 +1,22 @@
+.headtext{
+    padding: 6px 80px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.mainsec{
+    width: 100%;
+}
+.categories{
+    min-height: 80vh;
+    margin-bottom: 60px;
+    
+}
+
+.rowone{
+    padding: 20px 0 ;
+}
+
+img{
+    width: 100px;
+    height: 150px;
+}
